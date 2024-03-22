@@ -17,7 +17,7 @@ For more information go to https://learn.microsoft.com/en-us/azure/machine-learn
    > Models > +Register
 4. Create an Endpoint
    > Endpoints > Batch Endpoints > +Create
-5. Add Deployment
+5. Add new Deployment
    > your endpoint > +Add deployment
 
 For more information go to https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-azure-ml-in-a-day?view=azureml-api-2
